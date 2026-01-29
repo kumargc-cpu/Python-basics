@@ -1,8 +1,17 @@
 Python Basics Projects
 
 1. Student Management System
-- Add students
-- Store marks
-- Display student records
+   - Add students
+   - Store marks
+   - Display records
 
-Built using Python fundamentals (loops, functions, dictionaries).
+2. To-Do Application
+   - Add tasks
+   - View tasks
+   - Delete tasks
+
+Technologies:
+- Python
+- Git & GitHub
+
+These projects were built to revise Python fundamentals and logic.
