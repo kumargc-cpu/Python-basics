@@ -1,6 +1,8 @@
 Python Basics Projects
 
-- Student Management System
-- To-Do Application
+1. Student Management System
+- Add students
+- Store marks
+- Display student records
 
-This repository contains beginner-friendly Python projects created while revising fundamentals.
+Built using Python fundamentals (loops, functions, dictionaries).
